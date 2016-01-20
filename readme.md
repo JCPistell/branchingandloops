@@ -1,0 +1,1 @@
+A quick slide deck on the fundamentals of branching logic and looping in R.
